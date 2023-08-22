@@ -1,0 +1,15 @@
+.header {
+    font-size: 4rem;
+    font-weight: 700;
+    text-align: center;
+}
+.main {
+    font-size: 2rem;
+    font-weight: 400;
+    text-align: center;    
+}
+.footer {
+    font-size: 3rem;
+    font-weight: 600;
+    text-align: center;
+}
